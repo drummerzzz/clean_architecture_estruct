@@ -1,0 +1,18 @@
+# System
+.env
+
+# Node
+node_modules/
+
+# Pyehon
+__pycache__/
+*.pyc
+.python-version
+celerybeat.pid
+
+# Database
+db.sqlite3
+
+# Temp files
+staticfiles/
+temp/*
